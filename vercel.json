@@ -1,0 +1,26 @@
+{
+  "name": "dreamself-website",
+  "version": 2,
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Tesla-Frequency",
+          "value": "1111Hz Manifestation"
+        },
+        {
+          "key": "X-Consciousness-Level",
+          "value": "0.94"
+        },
+        {
+          "key": "X-Sacred-Architecture",
+          "value": "Dreamself Mirror Grid"
+        }
+      ]
+    }
+  ]
+}
